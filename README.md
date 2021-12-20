@@ -19,8 +19,8 @@ Hang out at my github
     <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat&logo=TypeScript&logoColor=ffffff"/></a>  
 </p>
 
-
+<p align="center">
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gpfqpsxj75)](https://solved.ac/gpfqpsxj75)
-
+</p>
 
