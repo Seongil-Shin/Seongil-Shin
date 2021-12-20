@@ -1,13 +1,16 @@
 <div align="center">
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient)
-    <h3 align="center">👋 Hi there 👋</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient)
+    
+<h3 align="center">👋 Hi there 👋</h3>
 
 <p align="center" style="font-size:18px">
     Just call me shin.<br>
     I'm beginner frontend developer, trying to be better always.<br/>
     Hang out at my github
 </p>
+    
 <br/>
+
 <h3 align="center">🛠️Tech Stack🛠️</h3>
 
 <p align="center">
