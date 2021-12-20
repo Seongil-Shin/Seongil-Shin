@@ -1,4 +1,5 @@
 <div align="center">
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient)
     <h3 align="center">👋 Hi there 👋</h3>
 
 <p align="center" style="font-size:18px">
