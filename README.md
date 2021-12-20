@@ -1,11 +1,11 @@
 <div align="center">
     <h3 align="center">👋 Hi there 👋</h3>
 
-    <p align="center" style="font-size:18px">
+<p align="center" style="font-size:18px">
     Just call me shin.<br>
     I'm beginner frontend developer, trying to be better always.<br/>
     Hang out at my github
-    </p>
+</p>
 <br/>
 <br/>
 <h3 align="center">🛠️Tech Stack🛠️</h3>
