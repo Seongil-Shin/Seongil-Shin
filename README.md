@@ -1,7 +1,7 @@
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient)
+<div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&text=Hi%20there%20👋&fontAlign=70&fontAlignY=40&&color=timeAuto)
     
-<h3 align="center">👋 Hi there 👋</h3>
 
 <p align="center" style="font-size:18px">
     Just call me shin.<br>
@@ -27,4 +27,6 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gpfqpsxj75)](https://solved.ac/gpfqpsxj75)
 
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&text=&fontAlign=80&fontAlignY=40&&color=timeAuto&&&section=footer)
+    
 </div>
