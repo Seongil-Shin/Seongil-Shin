@@ -6,7 +6,8 @@ Just call me shin.<br>
 I'm beginner frontend developer, trying to be better always.<br/>
 Hang out at my github
 </p>
-
+<br/>
+    <br/>
 
 
 <h3 align="center">🛠️Tech Stack🛠️</h3>
@@ -20,7 +21,8 @@ Hang out at my github
     <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat&logo=TypeScript&logoColor=ffffff"/></a>  
 </p>
 
-
+<br/>
+    <br/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gpfqpsxj75)](https://solved.ac/gpfqpsxj75)
 
