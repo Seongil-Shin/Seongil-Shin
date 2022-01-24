@@ -27,6 +27,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Seongil-Shin&show_icons=true)
     
+<br/>
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gpfqpsxj75)](https://solved.ac/gpfqpsxj75)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&text=&fontAlign=80&fontAlignY=40&&color=timeAuto&&&section=footer)
