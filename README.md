@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongil-Shin/&&show_icons=true&theme=radical)]
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Seongil-Shin&show_icons=true)
     
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gpfqpsxj75)](https://solved.ac/gpfqpsxj75)
 
