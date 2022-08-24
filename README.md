@@ -4,9 +4,7 @@
     
 
 <p align="center" style="font-size:18px">
-    Just call me shin.<br>
     Beginner frontend developer, trying to be better always.<br/>
-    Enjoy my github
 </p>
     
 <br/>
